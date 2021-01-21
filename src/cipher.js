@@ -1,6 +1,6 @@
 const cipher = {
-    encode:function(algo){console.log(algo)},
-    decode:function(){}
+    encode:function(cifrar){console.log(cifrar)},
+    decode:function(descifrar){console.log (descifrar)}
     
 
  };
