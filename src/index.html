@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-  <html>
-
+  <html lang="es">
     <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -8,9 +7,7 @@
       <link rel="stylesheet" href="style.css">
 
     </head>
-
     <body>
-
       <header>
         <!-- logo -->
         <div class="logo">
@@ -19,52 +16,39 @@
         </div>
 
       </header>
-
-      <main>
-
-        <article class="container">
-
+      
+      <main class="container">
           <form name="Cifrar">
-            <!-- cuadro cifrar -->
             <div>
-              <textarea placeholder="Ingresa texto a cifrar" name="sourceText">
+              <textarea id="sourceText" class="text" placeholder="Ingresa texto a cifrar" name="sourceText">
               </textarea>
             </div>
-            <!-- boton cifrar -->
             <div class="cif">
-              <input class="btn" type="button" value= "CIFRAR" id="encodeText" >
+              <input class="btn" type="button" value= "CIFRAR" id="encodeText">
             </div>
-            <!-- input cifrar -->
             <div class="cif">
               <input class="shift_2" type="number" name="shift" id="des_cif" value="">
-              <label class="box" for="shift">N° de desplazamiento:
+              <label class="box">N° de desplazamiento:
               </label>
             </div>
-
           </form>
-
           <form name="Descifrar">
-            <!-- cuadro descifrar -->
             <div id="tex_2">
-              <textarea placeholder="Ingresar texto a descifrar" name="ResultText">
+              <textarea id="ResultText" class="text" placeholder="Ingresar texto a descifrar" name="ResultText">
               </textarea>
             </div>
-            <!-- boton descifrar -->
             <div class="desci">
               <input class="btn" type="button" value="DESCIFRAR" id="decodeText">
             </div>
-            <!-- input descifrar -->
             <div class="desci">
-              <label class="box" id="des_2" for="shift">N° de desplazamiento:</label>
+              <label class="box" id="des_2" >N° de desplazamiento:</label>
               <input class="shift_2" type="number" name="shift" id="des_des" value="">
             </div>
 
           </form>
 
-        </article>
-
       </main>
-      <script src="index.js " type="module"></script>
+      <script src="index.js" type="module"></script>
     </body>
 
 </html>
