@@ -20,7 +20,7 @@ Usar este alfabeto simple (solamente mayúsculas y sin ñ):
 - **A B C D E F G H I J K L M N O P Q R S T U V W X Y Z**
 
 ------------
-
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/foto.png)
 #### Definición de Producto
 **¿ Quiénes son los principales usuarios de producto?**
 La pandemia actual ha vulnerado varios aspectos de nuestra vida, en el caso de los adolescentes se les ha adicionado el problema de su privacidad, pues, sus padres con la excusa de pagar los móviles u ordenadores de sus hijos se sienten con el derecho de revisar los mensajes que envían y reciben por esos canales, aduciendo "protección" y esa no es una buena fórmula de control pues, controlar no es igual que espiar. 
@@ -53,7 +53,7 @@ La interfaz  le permite al usuario:
 - Indica el # de desplazamientos que desea (derecha o izquierda) / (Offset)
 - Click en botón descifrar
 
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/Interfaz.jpg?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/Interfaz.jpg)
 
 
 ------------
@@ -64,15 +64,15 @@ Realicé 2 diseños, al segundo le agregué los botones necesarios para que pued
 
 **Diseño 1:**
 
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/prototipopapel1.jpg?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/prototipopapel1.jpg)
 
 **Diseño 2:**
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/prototipopapel2.jpg?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/prototipopapel2.jpg)
 
 **Diseño logo en Photoshop**
 Tome como referencia la iconografía de candado en una burbuja de diálogo que simboliza seguridad. [Link Iconografía](https://es.123rf.com/photo_30806197_icono-de-candado-en-una-burbuja-de-di%C3%A1logo-sobre-blanco.html "Link Iconografía")
 
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/logo.png?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/logo.png)
 
 **Prototipado en Figma**
 
@@ -87,30 +87,30 @@ Realicé las siguientes modificaciones como resultado de las observaciones de lo
 - Agrandar el tamaño de la letra de los botones
 - Darle un margen de separación a los cuadros de texto de Cifrado y Descifrado
 
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/cambios.png?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/cambios.png)
 
 [Prototipo Final Figma](https://www.figma.com/file/xMx8M3iX4lOS4oG3KDave3/Ciphers?node-id=0%3A1 "Prototipo Figma")
 
 **Interfaz**
 - Pantalla Inicial
 
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/figma1.png?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/figma1.png)
 
 - Usuario coloca el texto que desea cifrar, ingresa el número de desplazamiento con el shift del recuadro y da click al botón cifrar.
 
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/figma2.png?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/figma2.png)
 
 - El sistema muestra el texto cifrado
 
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/figma3.png?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/figma3.png)
 
 - Para decifrar copia y pega el texto cifrado en el recuadro de descrifrar, ingresar el número de desplazamiento con el shift y da click en el botón de decifrar.
 
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/figma4.png?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/figma4.png)
 
 - Muestra el texto decifrado.
 
-![](https://github.com/kelmita22/LIM014-cipher/blob/master/src/UX/figma5.png?raw=true)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/figma5.png)
 
 
 
