@@ -51,9 +51,9 @@ body{padding: 0;
              margin-left: -40%;
              font-family: sans-serif;
              font-size: 15px;
-             -webkit-text-stroke: 1px black;
+             -webkit-text-stroke: 1px white;
              border-radius: 10px;
-             background:pink;
+             background:red;
              }
 
    /* diseño label cifrar/descifrar*/
