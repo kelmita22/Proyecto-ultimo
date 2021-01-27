@@ -76,11 +76,4 @@ body{padding: 0;
              margin-left: 115%;
              position: absolute;
              }
-   @media (min-width: 1025px) {
-           .first,
-           .last 
-           width: 80%;
-           display: block;
-           margin-right: auto;
-           margin-left: auto;
-           }
+  
