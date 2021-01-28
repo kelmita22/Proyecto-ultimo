@@ -29,12 +29,8 @@ const cipher =
               //En el caso de descifrado hacemos el mismo procedimiento de encode pero en la ubicación ascii tomamos el número 90 y colocamos
               //negativo para que vaya a la inversa.
               decode: (des_des ,texto2)=>{
-              if ( des_des == "" || des_des == 0|| des_des == null) {
-              throw new TypeError("numero invalido");
-              }
-              else if (texto2 == "" || texto2 === 0 || texto2 == null) { 
-              throw new TypeError('Mensaje invalido');
-              }
+              if ( des_des == "" || des_des == 0|| des_des == null) {throw new TypeError("numero invalido");}
+              else if (texto2 == "" || texto2 === 0 || texto2 == null) {throw new TypeError('Mensaje invalido');}
               let desText = "";
               for (let i = 0; i < texto2.length; i++){
               let ascii_1 = texto2.charCodeAt(i);
