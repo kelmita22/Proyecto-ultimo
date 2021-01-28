@@ -110,7 +110,7 @@ Realicé las siguientes modificaciones como resultado de las observaciones de lo
 
 - Muestra el texto decifrado.
 
-![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/figma5.png)
+![](https://github.com/kelmita22/Proyecto-ultimo/blob/read.me/src/UX/figma%205.png)
 
 
 

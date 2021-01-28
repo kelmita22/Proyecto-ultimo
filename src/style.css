@@ -9,19 +9,19 @@ body{padding: 0;
        }
    /* logo */
    .logo {width: 320px;
-          height: 70%;
+          height: 68%;
           margin-top: 21%;
           left: 50%;
           position: absolute;
           transform: translate(-48%, -50%);
          }
    /* linea de separacion */
-   hr {width: 200%;
+   hr {width: 300%;
        height: 5px;
        margin-top: 66%;
        background-color: #ffff;
        position: absolute;
-       transform: translate(-27%, -15%);
+       transform: translate(-35%, -15%);
       }
    /* centrado contenido */
    .container {width: 320px;
